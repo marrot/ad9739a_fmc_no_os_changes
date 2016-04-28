@@ -251,4 +251,5 @@ int32_t dac_setup(uint32_t baseaddr)
 	}
 }
 
-/********** add dac_dma_write() ************
+/********** add dac_dma_write() **************
+//test
